@@ -1,4 +1,4 @@
-# userlist-api
+# userlist
 
 ## Project setup
 ```
